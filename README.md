@@ -66,20 +66,20 @@ to the repo via email to `binhdv@thenowproject.com.vn` and
 
 ## Checklist
 
-- [true] Attempt Question 1
-- [true] Attempt Question 2
-- [true] Attempt Question 3
-- [true] Attempt Question 4
-- [true] Finish Question 1
-- [true] Finish Question 2
-- [true] Finish Question 3
-- [true] Finish Question 4
-- [true] Run `yarn lint` with no errors
-- [true] Run `yarn type-check` with no errors
-- [true] Pass test Question 1 / Scenario 1
-- [true] Pass test Question 1 / Scenario 2
-- [true] Pass test Question 2 / Scenario 1
-- [true] Pass test Question 3 / Scenario 1
-- [true] Pass test Question 3 / Scenario 2
-- [true] Pass test Question 4 / Scenario 1
-- [true] Pass test Question 4 / Scenario 2
+- [x] Attempt Question 1
+- [x] Attempt Question 2
+- [x] Attempt Question 3
+- [x] Attempt Question 4
+- [x] Finish Question 1
+- [x] Finish Question 2
+- [x] Finish Question 3
+- [x] Finish Question 4
+- [x] Run `yarn lint` with no errors
+- [x] Run `yarn type-check` with no errors
+- [x] Pass test Question 1 / Scenario 1
+- [x] Pass test Question 1 / Scenario 2
+- [x] Pass test Question 2 / Scenario 1
+- [x] Pass test Question 3 / Scenario 1
+- [x] Pass test Question 3 / Scenario 2
+- [x] Pass test Question 4 / Scenario 1
+- [x] Pass test Question 4 / Scenario 2
